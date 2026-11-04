@@ -3,16 +3,13 @@
 *.jar
 
 # IDE and editor settings
-.idea/
 *.iml
-.vscode/
+.idea/
 
-# Course data files
-*.png
-*.wav
-*.txt
-CREDITS
+# Course data, libraries and test files
+introcs
 .lift
-
-# macOS system files
-.DS_Store
+*.png
+*.txt
+*.wav
+CREDITS
