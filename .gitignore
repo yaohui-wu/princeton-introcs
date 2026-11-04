@@ -1,15 +1,20 @@
+# IDE and editor settings
+.idea/
+*.iml
+
 # Compiled Java files and archives
 *.class
 *.jar
 
-# IDE and editor settings
-*.iml
-.idea/
 
-# Course data, libraries and test files
-introcs
-.lift
+# Course libraries
+introcs/
+.lift/
+
+# Course data, input, and output test files
 *.png
 *.txt
 *.wav
+
+# Resources attribution
 CREDITS
