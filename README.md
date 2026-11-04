@@ -11,7 +11,7 @@ autograder.
 - **Course Name:** Computer Science: Programming with a Purpose
 - **Course Website:** [Computer Science: Programming with a
   Purpose][course-website]
-- **Technology:** Java 21+ (OpenJDK)
+- **Technologies:** Java 21+ (OpenJDK)
 - **Coursework Timeline:** February 23, 2025 – March 10, 2025
 
 ## Coursework
@@ -35,7 +35,7 @@ autograder.
 
 [course-website]: https://www.coursera.org/learn/cs-programming-java
 
-<!-- Assignment instructions -->
+<!-- Assignment specifications -->
 
 [hello]:
   https://coursera.cs.princeton.edu/introcs/assignments/hello/specification.php
