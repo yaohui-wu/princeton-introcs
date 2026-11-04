@@ -6,15 +6,14 @@
 *.class
 *.jar
 
-
 # Course libraries
 introcs/
 .lift/
 
-# Course data, input, and output test files
+# Course data, input/output files, and test files
 *.png
 *.txt
 *.wav
 
-# Resources attribution
+# Resources attributions
 CREDITS
