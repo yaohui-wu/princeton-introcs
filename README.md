@@ -60,12 +60,12 @@ autograder.
 <!-- Assignment solutions -->
 
 [hello-solution]: 00-hello/
-[loops-solution]: 01_loops/
-[arrays-solution]: 02_arrays/
-[io-solution]: 03_io/
-[functions-solution]: 04_functions/
-[recursion-solution]: 05_recursion/
-[performance-solution]: 06_performance/
-[oop1-solution]: 07_oop1/
-[oop2-solution]: 08_oop2/
-[barchart-solution]: 09_barchart/
+[loops-solution]: 01-loops/
+[arrays-solution]: 02-arrays/
+[io-solution]: 03-io/
+[functions-solution]: 04-functions/
+[recursion-solution]: 05-recursion/
+[performance-solution]: 06-performance/
+[oop1-solution]: 07-oop1/
+[oop2-solution]: 08-oop2/
+[barchart-solution]: 09-barchart/
