@@ -59,7 +59,7 @@ autograder.
 
 <!-- Assignment solutions -->
 
-[hello-solution]: 00_hello/
+[hello-solution]: 00-hello/
 [loops-solution]: 01_loops/
 [arrays-solution]: 02_arrays/
 [io-solution]: 03_io/
