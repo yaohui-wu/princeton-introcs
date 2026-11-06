@@ -2,8 +2,7 @@
 
 This repository contains my solutions to the programming assignments for
 Princeton University's _Computer Science: Programming with a Purpose_ course.
-All solutions passed 100% of the test cases and received full credit on the
-autograder.
+All solutions passed every test case and earned full credit on the autograder.
 
 ## Course Details
 
